@@ -1,3 +1,5 @@
+-- Covid deaths SQL querys
+
 ALTER TABLE PortfolioProjects..CovidDeaths
 ALTER COLUMN new_deaths float;
 ALTER TABLE PortfolioProjects..CovidDeaths
