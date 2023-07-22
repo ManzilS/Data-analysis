@@ -1,6 +1,4 @@
-# data-analysis
-
-## Data analysis exercises and projects
+# You will see data analysis exercises and projects i have done.
 
 # Dash Boards
 
