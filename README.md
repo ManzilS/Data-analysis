@@ -1,4 +1,4 @@
-# You will see data analysis exercises and projects i have done.
+# You will see data analysis exercises and projects I have done.
 
 # Dash Boards
 
